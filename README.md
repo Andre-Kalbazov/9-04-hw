@@ -21,5 +21,5 @@
 1. Подключите Node Exporter к серверу Prometheus.
 2. Приложите скриншот конфига из интерфейса Prometheus вкладки Status > Configuration. Приложите скриншот из интерфейса Prometheus вкладки Status > Targets, чтобы было видно минимум два эндпоинта.
 
-
+![img](img/img03.png)
 ---
